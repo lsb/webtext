@@ -1,2 +1,3 @@
 # webtext
-Recreating webtext from publicly available sources
+
+Recreating the Reddit-based WebText dataset from publicly available sources
